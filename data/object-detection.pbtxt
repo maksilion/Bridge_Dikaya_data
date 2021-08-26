@@ -5,10 +5,10 @@
 
 item {
     id: 1
-    name:'totoro'
+    name:'Bridge_TV_Deluxe'
 }
 
 item {
     id: 2
-    name: 'nekobus'
+    name: 'Dikaya_Ohota_HD'
 }
